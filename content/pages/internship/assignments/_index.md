@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Internship
+parent_type: CourseSection
 parent_uid: b0b667ad-034b-467e-9c16-5556d8a53f25
 title: Assignments
 uid: 1d1d9af8-c21b-44bc-ecb4-d20388eee6a5

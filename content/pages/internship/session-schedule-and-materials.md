@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Internship
+parent_type: CourseSection
 parent_uid: b0b667ad-034b-467e-9c16-5556d8a53f25
 title: Session Schedule and Materials
 uid: d04fc536-c8d7-7ed5-8a81-b7c18c37db60

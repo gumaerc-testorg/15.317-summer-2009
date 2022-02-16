@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Internship
 uid: b0b667ad-034b-467e-9c16-5556d8a53f25
 ---

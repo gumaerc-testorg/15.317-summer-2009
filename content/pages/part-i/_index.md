@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Part I
 uid: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
 ---

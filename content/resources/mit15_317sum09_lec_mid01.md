@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to LGO joint leadership session.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-317-organizational-leadership-and-change-summer-2009/021fb5e0c3c41333e55ec32e82b616e6_MIT15_317SUM09_lec_mid01.pdf
+file: /media/courses/15-317-organizational-leadership-and-change-summer-2009/021fb5e0c3c41333e55ec32e82b616e6_MIT15_317SUM09_lec_mid01.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Session Schedule and Materials
+parent_type: CourseSection
 resourcetype: Document
 title: MIT15_317SUM09_lec_mid01.pdf
 uid: 021fb5e0-c3c4-1333-e55e-c32e82b616e6

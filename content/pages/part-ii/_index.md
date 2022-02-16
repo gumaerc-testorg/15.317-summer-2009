@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Part II '
 uid: e5949092-491f-4438-e957-e4aeec68ef1d
 ---

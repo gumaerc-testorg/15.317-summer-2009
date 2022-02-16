@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Part I
+parent_type: CourseSection
 parent_uid: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
 title: Readings
 uid: 380501db-93e9-62a6-5525-abbbbe5b81dc

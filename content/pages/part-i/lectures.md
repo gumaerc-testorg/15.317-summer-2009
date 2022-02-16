@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Part I
+parent_type: CourseSection
 parent_uid: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
 title: Lectures
 uid: 0ead4f88-6e19-5818-ac7b-0a41d937c6a1

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Part I
+parent_type: CourseSection
 parent_uid: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
 title: Assignments
 uid: dce33315-6629-5d2b-86db-9233def8f53f

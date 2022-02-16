@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1d1d9af8-c21b-44bc-ecb4-d20388eee6a5
 title: Stakeholder Analysis
 uid: 2f105422-3ed0-214d-28a7-ad1399295bff

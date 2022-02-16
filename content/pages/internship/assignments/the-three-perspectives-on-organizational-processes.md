@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1d1d9af8-c21b-44bc-ecb4-d20388eee6a5
 title: The Three Perspectives on Organizational Processes
 uid: f17a2670-9292-2e3b-a84b-ef3606a69b44

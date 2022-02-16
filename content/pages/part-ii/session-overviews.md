@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part II '
+parent_type: CourseSection
 parent_uid: e5949092-491f-4438-e957-e4aeec68ef1d
 title: Session Overviews
 uid: e7b5cf75-90b1-c323-323c-38fbf2051ce6
