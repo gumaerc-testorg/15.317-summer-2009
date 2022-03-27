@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Session Overviews
 parent_type: CourseSection
+parent_uid: e7b5cf75-90b1-c323-323c-38fbf2051ce6
 resourcetype: Document
 title: MIT15_317SUM09_lec_final.pdf
 uid: 0919590e-ec0a-caaa-1d5b-615ff1197730

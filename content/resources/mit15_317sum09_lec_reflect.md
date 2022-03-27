@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Session Schedule and Materials
 parent_type: CourseSection
+parent_uid: d04fc536-c8d7-7ed5-8a81-b7c18c37db60
 resourcetype: Document
 title: MIT15_317SUM09_lec_reflect.pdf
 uid: fef39fa0-ed22-8dad-9aa2-314ceb9d8530

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: dce33315-6629-5d2b-86db-9233def8f53f
 resourcetype: Other
 title: feedback02.xls
 uid: ccbab109-97dd-288a-7fcc-a98128313484

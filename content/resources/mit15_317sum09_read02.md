@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 380501db-93e9-62a6-5525-abbbbe5b81dc
 resourcetype: Document
 title: MIT15_317SUM09_read02.pdf
 uid: 33f3b793-eec5-e222-920a-7d435b052380

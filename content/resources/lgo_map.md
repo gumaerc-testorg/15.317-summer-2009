@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Overview
 parent_type: CourseSection
+parent_uid: c75e6831-443f-3feb-3e76-75b979c32f1a
 resourcetype: Image
 title: LGO_map.jpg
 uid: 9cab3c16-fb0d-9594-5b48-0b138a74b8e6

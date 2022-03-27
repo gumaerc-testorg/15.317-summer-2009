@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Session Overviews
 parent_type: CourseSection
+parent_uid: e7b5cf75-90b1-c323-323c-38fbf2051ce6
 resourcetype: Document
 title: MIT15_317SUM09_lec_fears.pdf
 uid: 741e9a10-953c-f1b3-efc2-0f5e6d7f799d
