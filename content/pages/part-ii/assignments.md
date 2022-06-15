@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the deliverables required for the
+  second part of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part II '

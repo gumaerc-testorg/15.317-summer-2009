@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the deliverables required for the
+  first part of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Part I
@@ -38,8 +40,8 @@ Peer Team Feedback and Cross-Team Sharing
 
 Complete the following surveys, which are meant to serve as mid-term team feedback.
 
-Summer Team Ratings ([PDF]({{< baseurl >}}/resources/mit15_317sum09_feedback01))  
-Peer Team Member Feedback ([XLS]({{< baseurl >}}/resources/feedback02))
+Summer Team Ratings ({{% resource_link 59d2d21d-a8d1-a2d6-abed-2270f66e6fc0 "PDF" %}})  
+Peer Team Member Feedback ({{% resource_link ccbab109-97dd-288a-7fcc-a98128313484 "XLS" %}})
 
 Group Assessment of Leadership & Team Performance
 -------------------------------------------------

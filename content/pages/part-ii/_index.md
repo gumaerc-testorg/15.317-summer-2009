@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an overview of the second part of the course and
+  information on meeting times and course materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Part II '
@@ -19,8 +21,8 @@ This final part of the LGO leadership journey is about leadership and making thi
 Course Materials
 ----------------
 
-[Session Overviews]({{< baseurl >}}/pages/part-ii/session-overviews)
+{{% resource_link e7b5cf75-90b1-c323-323c-38fbf2051ce6 "Session Overviews" %}}
 
-[Readings]({{< baseurl >}}/pages/part-ii/readings)
+{{% resource_link 5cb08451-765a-529a-8916-cd8a4718af4b "Readings" %}}
 
-[Assignments]({{< baseurl >}}/pages/part-ii/assignments)
+{{% resource_link ed2dc64b-989f-a298-a0c8-01cab6cc3a88 "Assignments" %}}

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides study questions for the first part of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Part I

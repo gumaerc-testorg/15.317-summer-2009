@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an overview of the Leaders for Global Operations
+  (LGO) Program.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Overview
@@ -8,7 +10,7 @@ uid: c75e6831-443f-3feb-3e76-75b979c32f1a
 
 15.317 is a two-year leadership development course that spans the entirety of the Leaders for Global Operations (LGO) Program which is a two-year, dual degree (MBA and MS in Engineering) curriculum and includes a six-month internship within a partner company. As illustrated in the diagram below, leadership is at the top of the program pyramid. As such, 15.317 builds upon the entire curriculum and is integrated into the fabric of the LGO program. LGO leadership development uses the student experience as a practice field to learn and develop leadership capabilities.
 
-[![Pyramid depicting components of the LGO program.]({{< resource_file aa1b585b-86d6-3985-d4f7-5a63ece68085 >}})]({{< baseurl >}}/resources/lgo_pyramid)
+{{< resource uuid="aa1b585b-86d6-3985-d4f7-5a63ece68085" href_uuid="aa1b585b-86d6-3985-d4f7-5a63ece68085" >}}
 
 The Leaders for Global Operations (LGO) program pyramid. (Courtesy of MIT LGO. Used with permission.)
 
@@ -18,7 +20,7 @@ This initial seminar (referred to as Part I) is designed to build a strong cohor
 
 Finally, 15.317 concludes with a weekly leadership seminar during the final semester of the LGO Program. This seminar is designed to build upon student's prior leadership learnings and use them as a basis for preparing for leadership challenges they will likely encounter post graduation.
 
-[![LGO program timeline.]({{< resource_file 9cab3c16-fb0d-9594-5b48-0b138a74b8e6 >}})]({{< baseurl >}}/resources/lgo_map)
+{{< resource uuid="9cab3c16-fb0d-9594-5b48-0b138a74b8e6" href_uuid="9cab3c16-fb0d-9594-5b48-0b138a74b8e6" >}}
 
 LGO Two Year Leadership Development Journey.
 

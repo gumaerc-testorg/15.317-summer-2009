@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of topics and key dates for
+  the first part of the course, along with brief overviews of each session.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Part I

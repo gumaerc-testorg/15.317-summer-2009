@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This deliverable (max 5 pages) is an analysis of your internship project
+  using the three different perspectives discussed in 15.311 for analyzing organizational
+  processes: strategic design, political, and cultural.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -13,10 +16,10 @@ uid: f17a2670-9292-2e3b-a84b-ef3606a69b44
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: [Stakeholder Analysis]({{< baseurl >}}/pages/internship/assignments/stakeholder-analysis)
+« Previous: {{% resource_link 2f105422-3ed0-214d-28a7-ad1399295bff "Stakeholder Analysis" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Back to: [Assignments]({{< baseurl >}}/pages/internship/assignments) »
+Back to: {{% resource_link 1d1d9af8-c21b-44bc-ecb4-d20388eee6a5 "Assignments" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,10 +70,10 @@ CONCLUSIONS: What are your key take-aways for your internship based on this anal
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Previous: [Stakeholder Analysis]({{< baseurl >}}/pages/internship/assignments/stakeholder-analysis)
+« Previous: {{% resource_link 2f105422-3ed0-214d-28a7-ad1399295bff "Stakeholder Analysis" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Back to: [Assignments]({{< baseurl >}}/pages/internship/assignments) »
+Back to: {{% resource_link 1d1d9af8-c21b-44bc-ecb4-d20388eee6a5 "Assignments" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
