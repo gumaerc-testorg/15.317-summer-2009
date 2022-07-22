@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section provides the readings for the second part of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part II '
+parent_type: CourseSection
 parent_uid: e5949092-491f-4438-e957-e4aeec68ef1d
 title: Readings
 uid: 5cb08451-765a-529a-8916-cd8a4718af4b
@@ -100,7 +104,7 @@ Leading transformational change
 {{< tdopen >}}
 
 
-Fairholm, Matthew R. "Leading from the Middle: The Power and Influence of Middle Leaders." _The Public Manager_ 30, no. 4 (2001). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.researchgate.net/publication/283051923_Leading_from_the_Middle_The_Power_and_Influence_of_Middle_Leaders))
+Fairholm, Matthew R. "Leading from the Middle: The Power and Influence of Middle Leaders." _The Public Manager_ 30, no. 4 (2001). ([PDF](https://www.researchgate.net/publication/283051923_Leading_from_the_Middle_The_Power_and_Influence_of_Middle_Leaders))
 
 ### Optional
 

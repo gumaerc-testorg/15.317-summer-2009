@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides a list of session topics and lecture notes for
+  the internship component of the  Leaders for Global Operations (LGO) Program.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Internship
+parent_type: CourseSection
 parent_uid: b0b667ad-034b-467e-9c16-5556d8a53f25
 title: Session Schedule and Materials
 uid: d04fc536-c8d7-7ed5-8a81-b7c18c37db60
@@ -36,7 +41,7 @@ _April, Year 1_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mit15_317sum09_lec_prep))
+({{% resource_link f2b56067-e99f-8acc-1def-e99c75575371 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ _July, Year 2_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec_web01))
+({{% resource_link f86ccda7-c3f3-44e0-264d-338fc8b3c54f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +77,7 @@ _July, Year 2_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec_web02))
+({{% resource_link f261da1a-eb10-4033-852c-ef43f1426a90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ _September, Year 2_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec_mid01))
+({{% resource_link 021fb5e0-c3c4-1333-e55e-c32e82b616e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +113,7 @@ _October, Year 2_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec_mid02))
+({{% resource_link 9dcf5998-e391-e26e-de03-cf460c7ae235 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ _January, Year 2_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec_knwlge))
+({{% resource_link 27e26656-d359-d997-b669-eb8fc7290705 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +149,7 @@ _January, Year 2_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit15_317sum09_lec_reflect))
+({{% resource_link fef39fa0-ed22-8dad-9aa2-314ceb9d8530 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

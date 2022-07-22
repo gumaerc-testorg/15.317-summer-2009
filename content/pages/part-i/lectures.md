@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the first part
+  of the course along with the lecture notes from selected sessions.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Part I
+parent_type: CourseSection
 parent_uid: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
 title: Lectures
 uid: 0ead4f88-6e19-5818-ac7b-0a41d937c6a1
@@ -30,7 +35,7 @@ LECTURE NOTES
 Introduction to the two-year LGO journey
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit15_317sum09_lec01))
+({{% resource_link 5fdc215a-f066-665d-79c0-2ef48b0a77e1 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Introduction to the two-year LGO journey
 Traits vs. situational leadership; Leading and following
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec02))
+({{% resource_link ccf9dfda-7438-508f-281a-5eb31babe100 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Traits vs. situational leadership; Leading and following
 Distributed leadership
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec03))
+({{% resource_link 0c83d6f0-6601-75b7-b1e4-2e7c64984508 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Distributed leadership
 Team processes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec04))
+({{% resource_link 47f40d01-eb50-5c91-3a79-84bc7c18b612 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Team processes
 Transformational leadership
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec05))
+({{% resource_link 93134d71-4d44-ff42-126a-f3116afdc14d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Don Davis/Bill Hanson
 Leadership development planning and alum panel
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit15_317sum09_lec07))
+({{% resource_link 50aececd-e908-c908-9057-05dfaf79c32f "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Leadership reaction course
 Reflections on summer teams and leadership
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec11))
+({{% resource_link c282f0dc-e225-1f68-288c-53d5504cecd7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

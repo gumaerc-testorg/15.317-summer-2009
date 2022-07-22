@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: Stakeholder analysis assignment intended to help you to map relationships
+  between all of the stakeholders involved in and affected by your project.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1d1d9af8-c21b-44bc-ecb4-d20388eee6a5
 title: Stakeholder Analysis
 uid: 2f105422-3ed0-214d-28a7-ad1399295bff
@@ -9,10 +15,10 @@ uid: 2f105422-3ed0-214d-28a7-ad1399295bff
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-« Back to: [Assignments]({{< baseurl >}}/pages/internship/assignments)
+« Back to: {{% resource_link 1d1d9af8-c21b-44bc-ecb4-d20388eee6a5 "Assignments" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Next: [The Three Perspectives on Organizational Processes]({{< baseurl >}}/pages/internship/assignments/the-three-perspectives-on-organizational-processes) »
+Next: {{% resource_link f17a2670-9292-2e3b-a84b-ef3606a69b44 "The Three Perspectives on Organizational Processes" %}} »
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +39,7 @@ It is recommended that you extend your analysis beyond your immediate team to in
 
 The stakeholder map is a network diagram of the relationships between all of the stakeholders.
 
-[![Image of a network diagram.]({{< resource_file f5af3d2c-3188-475f-5ab0-2da69bea3cd9 >}})]({{< baseurl >}}/resources/assn01)
+{{< resource uuid="f5af3d2c-3188-475f-5ab0-2da69bea3cd9" href_uuid="f5af3d2c-3188-475f-5ab0-2da69bea3cd9" >}}
 
 The structure of a stakeholder map.
 

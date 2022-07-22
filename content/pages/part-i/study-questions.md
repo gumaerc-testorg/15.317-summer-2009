@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section provides study questions for the first part of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Part I
+parent_type: CourseSection
 parent_uid: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
 title: Study Questions
 uid: 86f624ed-6c55-ed62-67fd-15082c4cd2d1

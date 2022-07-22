@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides the schedule of topics for the second part of the
+  course along with brief overviews of each session.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Part II '
+parent_type: CourseSection
 parent_uid: e5949092-491f-4438-e957-e4aeec68ef1d
 title: Session Overviews
 uid: e7b5cf75-90b1-c323-323c-38fbf2051ce6
@@ -34,7 +39,7 @@ A different lens on leadership
 
 This session will explore the various leadership roles within a restaurant. Your pre-work for the session is to watch the movie Ratatouille. Be prepared to identify who is the leader in the movie (who, when, and why). Peter and Colleen McCarthy, chef and owners of EVOO, will assist in a leadership simulation and share their leadership challenges in managing their three restaurants.
 
-Activity overview ([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec_intro))
+Activity overview ({{% resource_link 721b651b-6b47-c982-c53a-f157c898adb2 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -60,7 +65,7 @@ We will need several volunteers to present leadership scenarios this week and ne
 *   3-4 minutes recommendations from the small groups to the presenter
 *   2-3 minutes of presenter stating what happened
 
-Activity overview ([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec_fears))
+Activity overview ({{% resource_link 741e9a10-953c-f1b3-efc2-0f5e6d7f799d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -90,7 +95,7 @@ Leading high performance teams and final class prep
 
 During the first half of this session, Lieutenant Colonel Thomas J. Gordon IV, USMC, a visiting military Fellow at the [MIT Center for International Studies](http://web.mit.edu/cis/), will share his experiences in building high performance teams. Members of your leadership committee highly recommended Lieutenant Colonel Gordon as a keynote speaker based on a presentation he gave during an IAP Workshop. We will spend the remaining portion of the session preparing for our final class session (details to be discussed in class).
 
-Preparation notes for final class ([PDF]({{< baseurl >}}/resources/mit15_317sum09_lec_final))
+Preparation notes for final class ({{% resource_link 0919590e-ec0a-caaa-1d5b-615ff1197730 "PDF" %}})
 
 
 {{< tdclose >}}

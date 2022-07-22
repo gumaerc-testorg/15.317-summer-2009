@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides an overview of the first part of the course and
+  information on meeting times and course materials.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Part I
 uid: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
 ---
@@ -17,12 +21,12 @@ Part I of this course is the beginning of a two-year LGO leadership journey. The
 Course Materials
 ----------------
 
-[Calendar]({{< baseurl >}}/pages/part-i/calendar)
+{{% resource_link 3bfc8942-ff99-7aed-845e-6ea1d7b78f44 "Calendar" %}}
 
-[Readings]({{< baseurl >}}/pages/part-i/readings)
+{{% resource_link 380501db-93e9-62a6-5525-abbbbe5b81dc "Readings" %}}
 
-[Study Questions]({{< baseurl >}}/pages/part-i/study-questions)
+{{% resource_link 86f624ed-6c55-ed62-67fd-15082c4cd2d1 "Study Questions" %}}
 
-[Lectures]({{< baseurl >}}/pages/part-i/lectures)
+{{% resource_link 0ead4f88-6e19-5818-ac7b-0a41d937c6a1 "Lectures" %}}
 
-[Assignments]({{< baseurl >}}/pages/part-i/assignments)
+{{% resource_link dce33315-6629-5d2b-86db-9233def8f53f "Assignments" %}}

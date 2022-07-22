@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section provides the readings for the first part of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Part I
+parent_type: CourseSection
 parent_uid: 2b02d8e8-5104-6927-04c6-16d45fbf2e4e
 title: Readings
 uid: 380501db-93e9-62a6-5525-abbbbe5b81dc
@@ -32,7 +36,7 @@ Introduction to the two-year LGO journey
 {{< tdopen >}}
 
 
-Ancona, Deborah. "Leadership in an Age of Uncertainty." MIT Leadership Center, 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ebusiness.mit.edu/research/Briefs/Ancona_Leadership_Final_VI.pdf))
+Ancona, Deborah. "Leadership in an Age of Uncertainty." MIT Leadership Center, 2005. ([PDF](http://ebusiness.mit.edu/research/Briefs/Ancona_Leadership_Final_VI.pdf))
 
 The Nobel Foundation. "[Wangari Maathai Biography](http://www.nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-bio.html)." Nobelprize.org.
 
@@ -54,7 +58,7 @@ Traits vs. situational leadership; Leading and following
 {{< tdopen >}}
 
 
-Background for Leadership Debates ([PDF]({{< baseurl >}}/resources/mit15_317sum09_read02))
+Background for Leadership Debates ({{% resource_link 33f3b793-eec5-e222-920a-7d435b052380 "PDF" %}})
 
 Fry, Maddy. "[Bono Biography](http://www.atu2.com/band/bono/)." @ U2.
 
