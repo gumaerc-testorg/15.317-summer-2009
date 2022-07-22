@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Overview
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: LGO_pyramid.jpg
 uid: aa1b585b-86d6-3985-d4f7-5a63ece68085
 ---
 The leaders for global operations (LGO) program pyramid. 
-

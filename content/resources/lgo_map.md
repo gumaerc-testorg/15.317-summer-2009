@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: LGO program timeline.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Overview
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: LGO_map.jpg
 uid: 9cab3c16-fb0d-9594-5b48-0b138a74b8e6
 ---
 LGO Two Year Leadership Development Journey.
-

@@ -5,6 +5,7 @@ file: /courses/15-317-organizational-leadership-and-change-summer-2009/33f3b793e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_317SUM09_read02.pdf
 uid: 33f3b793-eec5-e222-920a-7d435b052380
 ---
 This resource contains leadership debate background.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Stakeholder Analysis
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: assn01.jpg
 uid: f5af3d2c-3188-475f-5ab0-2da69bea3cd9
 ---
 The structure of a stakeholder map. 
-

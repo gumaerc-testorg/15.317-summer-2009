@@ -5,6 +5,7 @@ file: /courses/15-317-organizational-leadership-and-change-summer-2009/59d2d21da
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_317SUM09_feedback01.pdf
 uid: 59d2d21d-a8d1-a2d6-abed-2270f66e6fc0
 ---
 This resource contains summer team ratings.
-
