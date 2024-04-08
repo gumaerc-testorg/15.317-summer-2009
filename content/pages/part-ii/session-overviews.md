@@ -93,7 +93,7 @@ Leading high performance teams and final class prep
 {{< tdopen >}}
 
 
-During the first half of this session, Lieutenant Colonel Thomas J. Gordon IV, USMC, a visiting military Fellow at the [MIT Center for International Studies](http://web.mit.edu/cis/), will share his experiences in building high performance teams. Members of your leadership committee highly recommended Lieutenant Colonel Gordon as a keynote speaker based on a presentation he gave during an IAP Workshop. We will spend the remaining portion of the session preparing for our final class session (details to be discussed in class).
+During the first half of this session, Lieutenant Colonel Thomas J. Gordon IV, USMC, a visiting military Fellow at the {{% resource_link "e58177f6-2d4f-467a-a9c4-a8508e9f91e2" "MIT Center for International Studies" %}}, will share his experiences in building high performance teams. Members of your leadership committee highly recommended Lieutenant Colonel Gordon as a keynote speaker based on a presentation he gave during an IAP Workshop. We will spend the remaining portion of the session preparing for our final class session (details to be discussed in class).
 
 Preparation notes for final class ({{% resource_link 0919590e-ec0a-caaa-1d5b-615ff1197730 "PDF" %}})
 
@@ -121,7 +121,7 @@ This session will focus on leading transformational change, especially from the 
 A reflection of your LGO leadership journey
 {{< tdclose >}}
 {{< tdopen >}}
-For our final class, you will have an opportunity to showcase your LGO leadership experiences. We have invited the LGO co-directors and representatives from the [MIT Leadership Center](http://mitleadership.mit.edu/) at Sloan and the [Gordon Leadership Program](http://web.mit.edu/gordonelp/) to come to class and hear first hand from you what you have learned from your two-year leadership journey. The goal for the session is to share what LGO is doing and help our invited guests think about whether and perhaps how the LGO approach can be adapted to teach leadership to other MIT student groups and programs.
+For our final class, you will have an opportunity to showcase your LGO leadership experiences. We have invited the LGO co-directors and representatives from the {{% resource_link "6ddbebe2-bcdb-4b89-8e4e-5fb2e8d674f0" "MIT Leadership Center" %}} at Sloan and the {{% resource_link "af20cd8d-5251-4ee2-9344-3802303e579e" "Gordon Leadership Program" %}} to come to class and hear first hand from you what you have learned from your two-year leadership journey. The goal for the session is to share what LGO is doing and help our invited guests think about whether and perhaps how the LGO approach can be adapted to teach leadership to other MIT student groups and programs.
 {{< tdclose >}}
 
 {{< trclose >}}
