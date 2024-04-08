@@ -38,7 +38,7 @@ A different lens on leadership
 
 ### Watch
 
-[_Ratatouille_](http://www.imdb.com/title/tt0382932/), directed by Brad Bird ad Jan Pinkava, 2007.
+{{% resource_link "671748a3-862d-4e4e-b0a6-00fe2b52bca9" "_Ratatouille_" %}}, directed by Brad Bird ad Jan Pinkava, 2007.
 
 Consider: Who is taking leadership? When, how? Pay particular attention to Remy and Linguini and how they developed they leadership competencies.
 
@@ -56,9 +56,9 @@ Leadership fears
 {{< tdopen >}}
 
 
-Leitschuh, Cheryl. "[Leaders and the Four Fatal Fears](http://apps.americanbar.org/lpm/lpt/articles/mgt03071.shtml)." _Law Practice Today_, March 2007.
+Leitschuh, Cheryl. "{{% resource_link "b9ceaa2f-c7a5-4f5d-acd4-7621db0d01fd" "Leaders and the Four Fatal Fears" %}}." _Law Practice Today_, March 2007.
 
-Kets de Vries, Manfred F. R. "[The Dangers of Feeling Like a Fake](http://hbr.org/2005/09/the-dangers-of-feeling-like-a-fake/ar/1)." _Harvard Business Review Magazine_, September 2005.
+Kets de Vries, Manfred F. R. "{{% resource_link "51ba522e-dd63-4fa8-ab97-4451018177e1" "The Dangers of Feeling Like a Fake" %}}." _Harvard Business Review Magazine_, September 2005.
 
 
 {{< tdclose >}}
@@ -76,7 +76,7 @@ Leading stakeholders with diverse interests
 
 Dominguez, Cari. "Views from the EEOC: Generational Diversity." _Diversity & the Bar_, July/August 2003.
 
-Alsop, Ron. "[The 'Trophy Kids' Go to Work](http://www.careerjournal.com/article/SB122455219391652725.html)." _The Wall Street Journal_ (October 21, 2008).
+Alsop, Ron. "{{% resource_link "c9d04760-374f-4a27-ac2f-d86f5a66012d" "The 'Trophy Kids' Go to Work" %}}." _The Wall Street Journal_ (October 21, 2008).
 
 
 {{< tdclose >}}
@@ -104,7 +104,7 @@ Leading transformational change
 {{< tdopen >}}
 
 
-Fairholm, Matthew R. "Leading from the Middle: The Power and Influence of Middle Leaders." _The Public Manager_ 30, no. 4 (2001). ([PDF](https://www.researchgate.net/publication/283051923_Leading_from_the_Middle_The_Power_and_Influence_of_Middle_Leaders))
+Fairholm, Matthew R. "Leading from the Middle: The Power and Influence of Middle Leaders." _The Public Manager_ 30, no. 4 (2001). ({{% resource_link "869cf0cc-7e2b-4f5f-ae4b-c66e268a45c5" "PDF" %}})
 
 ### Optional
 
