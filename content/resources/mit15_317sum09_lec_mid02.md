@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to midstream leadership session.
 file: /courses/15-317-organizational-leadership-and-change-summer-2009/9dcf5998e391e26ede03cf460c7ae235_MIT15_317SUM09_lec_mid02.pdf
+file_size: 320080
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

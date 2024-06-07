@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to internship wrap-up and
   hand-off.
 file: /courses/15-317-organizational-leadership-and-change-summer-2009/f261da1aeb104033852cef43f1426a90_MIT15_317SUM09_lec_web02.pdf
+file_size: 349432
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
