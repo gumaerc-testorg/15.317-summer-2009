@@ -36,11 +36,11 @@ Introduction to the two-year LGO journey
 {{< tdopen >}}
 
 
-Ancona, Deborah. "Leadership in an Age of Uncertainty." MIT Leadership Center, 2005. ({{% resource_link "dcdc6d44-6f26-44ed-b770-0cf6d736da86" "PDF" %}})
+Ancona, Deborah. "Leadership in an Age of Uncertainty." MIT Leadership Center, 2005. ([PDF](http://ebusiness.mit.edu/research/Briefs/Ancona_Leadership_Final_VI.pdf))
 
-The Nobel Foundation. "{{% resource_link "739f7da7-ffd1-4fc3-b1db-3b445fab885c" "Wangari Maathai Biography" %}}." Nobelprize.org.
+The Nobel Foundation. "[Wangari Maathai Biography](http://www.nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-bio.html)." Nobelprize.org.
 
-The Nobel Foundation. "{{% resource_link "279655f8-4415-44ce-a31e-95c33c58a963" "Wangari Maathai Nobel Lecture" %}}." Nobelprize.org.
+The Nobel Foundation. "[Wangari Maathai Nobel Lecture](http://www.nobelprize.org/nobel_prizes/peace/laureates/2004/maathai-lecture-text.html)." Nobelprize.org.
 
 Maathai, Wangari. Chapter 6 in _Unbowed: A Memoir_. Anchor Books, 2007. ISBN: 9780307275202.
 
@@ -60,11 +60,11 @@ Traits vs. situational leadership; Leading and following
 
 Background for Leadership Debates ({{% resource_link 33f3b793-eec5-e222-920a-7d435b052380 "PDF" %}})
 
-Fry, Maddy. "{{% resource_link "dff3f64b-e4a2-4efb-be63-5a26e59c2294" "Bono Biography" %}}." @ U2.
+Fry, Maddy. "[Bono Biography](http://www.atu2.com/band/bono/)." @ U2.
 
-BBC News. "{{% resource_link "c0327ce8-3361-4420-b61b-1f40ca63073f" "Voice of Influential U2 Frontman" %}}."
+BBC News. "[Voice of Influential U2 Frontman](http://news.bbc.co.uk/2/hi/entertainment/4540228.stm)."
 
-Captur, Gabriella. "{{% resource_link "978a1d52-bb1f-4f09-afff-0866cb91f1ce" "Memento for René Favaloro" %}}." _Texas Heart Institute Journal_ 31, no. 1 (2004): 47-60.
+Captur, Gabriella. "[Memento for René Favaloro](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC387434/)." _Texas Heart Institute Journal_ 31, no. 1 (2004): 47-60.
 
 Heifetz, Ronald A. "Mobilizing Adaptive Work." Chapter 4 in _Leadership Without Easy Answers_. Harvard University Press, 1998. ISBN: 9780674518582.
 
@@ -160,7 +160,7 @@ Bolt, Robert. _A Man for All Seasons_. Vintage Books, 1990. ISBN: 9780679728221.
 
 ### Watch
 
-{{% resource_link "ebcf6f91-b1d0-4e7d-8f5a-d8d267a11a9a" "_The Queen_" %}}, directed by Stephen Frears, 2006.
+[_The Queen_](http://www.imdb.com/title/tt0436697/), directed by Stephen Frears, 2006.
 
 
 {{< tdclose >}}
@@ -176,15 +176,15 @@ Leadership: Innovation and social control (Leigh Hafrey)
 {{< tdopen >}}
 
 
-Hagel, John, and John Seely Brown. "{{% resource_link "33dcd113-a8f9-4ff5-bda6-c85153e57af5" "Innovating on the Edge of Big Waves" %}}." _Business Week_, January 20, 2008.
+Hagel, John, and John Seely Brown. "[Innovating on the Edge of Big Waves](http://www.businessweek.com/innovate/content/jan2008/id20080130_724732.htm)." _Business Week_, January 20, 2008.
 
-Joy, Bill. "{{% resource_link "53be6581-32ce-45c9-ba90-dd0f33b4b4dc" "Why the Future Doesn't Need Us" %}}." _Wired_, April 2000.
+Joy, Bill. "[Why the Future Doesn't Need Us](http://www.wired.com/wired/archive/8.04/joy.html)." _Wired_, April 2000.
 
 Hawken, Paul, Amory Lovins, and L. Hunter Lovins. "Once Upon a Planet." Chapter 15 in _Natural Capitalism: Creating the Next Industrial Revolution_. Back Bay Books, 2008. ISBN: 9780316353007.
 
 ### Watch
 
-{{% resource_link "dd81c421-11d6-4756-8ed1-012ef6948199" "_Riding Giants_" %}}, directed by Stacy Peralta, 2004.
+[_Riding Giants_](http://www.imdb.com/title/tt0389326/), directed by Stacy Peralta, 2004.
 
 
 {{< tdclose >}}

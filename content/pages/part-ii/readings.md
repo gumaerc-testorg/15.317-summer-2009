@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section provides the readings for the second part of the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Part II '
@@ -9,122 +10,66 @@ parent_uid: e5949092-491f-4438-e957-e4aeec68ef1d
 title: Readings
 uid: 5cb08451-765a-529a-8916-cd8a4718af4b
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 A different lens on leadership
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Watch
 
-{{% resource_link "671748a3-862d-4e4e-b0a6-00fe2b52bca9" "_Ratatouille_" %}}, directed by Brad Bird ad Jan Pinkava, 2007.
+[*Ratatouille*](http://www.imdb.com/title/tt0382932/), directed by Brad Bird ad Jan Pinkava, 2007.
 
 Consider: Who is taking leadership? When, how? Pay particular attention to Remy and Linguini and how they developed they leadership competencies.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Leadership fears
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Leitschuh, Cheryl. ["Leaders and the Four Fatal Fears." (PDF)](https://www.nielsongroup.com/newsletter/vol6issue4.pdf) *Nielson Report* 6, no. 4 (2006): 1–3. 
 
-Leitschuh, Cheryl. "{{% resource_link "b9ceaa2f-c7a5-4f5d-acd4-7621db0d01fd" "Leaders and the Four Fatal Fears" %}}." _Law Practice Today_, March 2007.
+Kets de Vries, Manfred F. R. "[The Dangers of Feeling Like a Fake](http://hbr.org/2005/09/the-dangers-of-feeling-like-a-fake/ar/1)." *Harvard Business Review Magazine*, September 2005.
 
-Kets de Vries, Manfred F. R. "{{% resource_link "51ba522e-dd63-4fa8-ab97-4451018177e1" "The Dangers of Feeling Like a Fake" %}}." _Harvard Business Review Magazine_, September 2005.
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Leading stakeholders with diverse interests
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
+Dominguez, Cari. "Views from the EEOC: Generational Diversity." *Diversity & the Bar*, July/August 2003.
 
-Dominguez, Cari. "Views from the EEOC: Generational Diversity." _Diversity & the Bar_, July/August 2003.
+Alsop, Ron. "[The 'Trophy Kids' Go to Work](http://www.careerjournal.com/article/SB122455219391652725.html)." *The Wall Street Journal* (October 21, 2008).
 
-Alsop, Ron. "{{% resource_link "c9d04760-374f-4a27-ac2f-d86f5a66012d" "The 'Trophy Kids' Go to Work" %}}." _The Wall Street Journal_ (October 21, 2008).
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Leading high performance teams and final class prep
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Leading transformational change
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 
-
-Fairholm, Matthew R. "Leading from the Middle: The Power and Influence of Middle Leaders." _The Public Manager_ 30, no. 4 (2001). ({{% resource_link "869cf0cc-7e2b-4f5f-ae4b-c66e268a45c5" "PDF" %}})
+Fairholm, Matthew R. "Leading from the Middle: The Power and Influence of Middle Leaders." *The Public Manager* 30, no. 4 (2001). ([PDF](https://www.researchgate.net/publication/283051923_Leading_from_the_Middle_The_Power_and_Influence_of_Middle_Leaders))
 
 ### Optional
 
-Schein, Edgar H. Chapters 12 and 13 in _Organizational Culture and Leadership_. Jossey-Bass, 2010. ISBN: 9780470190609.
+Schein, Edgar H. Chapters 12 and 13 in *Organizational Culture and Leadership*. Jossey-Bass, 2010. ISBN: 9780470190609.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 A reflection of your LGO leadership journey
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

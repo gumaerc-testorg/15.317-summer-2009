@@ -2,6 +2,7 @@
 content_type: resource
 description: 'The leaders for global operations (LGO) program pyramid. '
 file: /courses/15-317-organizational-leadership-and-change-summer-2009/aa1b585b86d63985d4f75a63ece68085_LGO_pyramid.jpg
+file_size: 49331
 file_type: image/jpeg
 image_metadata:
   caption: ''
