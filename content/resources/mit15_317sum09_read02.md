@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains leadership debate background.
-file: /courses/15-317-organizational-leadership-and-change-summer-2009/33f3b793eec5e222920a7d435b052380_MIT15_317SUM09_read02.pdf
+file: /ol-ocw-studio-app/courses/15-317-organizational-leadership-and-change-summer-2009/33f3b793eec5e222920a7d435b052380_MIT15_317SUM09_read02.pdf
 file_size: 47887
 file_type: application/pdf
 learning_resource_types:
