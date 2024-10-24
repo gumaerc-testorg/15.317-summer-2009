@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The structure of a stakeholder map. '
-file: /courses/15-317-organizational-leadership-and-change-summer-2009/f5af3d2c3188475f5ab02da69bea3cd9_assn01.jpg
+file: /ol-ocw-studio-app/courses/15-317-organizational-leadership-and-change-summer-2009/f5af3d2c3188475f5ab02da69bea3cd9_assn01.jpg
 file_size: 5054
 file_type: image/jpeg
 image_metadata:
