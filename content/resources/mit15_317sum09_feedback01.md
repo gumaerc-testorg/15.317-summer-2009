@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains summer team ratings.
-file: /ol-ocw-studio-app/courses/15-317-organizational-leadership-and-change-summer-2009/59d2d21da8d1a2d6abed2270f66e6fc0_MIT15_317SUM09_feedback01.pdf
+file: /courses/15-317-organizational-leadership-and-change-summer-2009/59d2d21da8d1a2d6abed2270f66e6fc0_MIT15_317SUM09_feedback01.pdf
 file_size: 57522
 file_type: application/pdf
 learning_resource_types:

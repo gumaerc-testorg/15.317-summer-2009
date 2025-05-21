@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to LGO joint session: knowledge
   review.'
-file: /ol-ocw-studio-app/courses/15-317-organizational-leadership-and-change-summer-2009/27e26656d359d997b669eb8fc7290705_MIT15_317SUM09_lec_knwlge.pdf
+file: /courses/15-317-organizational-leadership-and-change-summer-2009/27e26656d359d997b669eb8fc7290705_MIT15_317SUM09_lec_knwlge.pdf
 file_size: 164923
 file_type: application/pdf
 learning_resource_types: []
