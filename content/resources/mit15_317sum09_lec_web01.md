@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to stakeholder analysis.
-file: /ol-ocw-studio-app/courses/15-317-organizational-leadership-and-change-summer-2009/f86ccda7c3f344e0264d338fc8b3c54f_MIT15_317SUM09_lec_web01.pdf
+file: /courses/15-317-organizational-leadership-and-change-summer-2009/f86ccda7c3f344e0264d338fc8b3c54f_MIT15_317SUM09_lec_web01.pdf
 file_size: 625597
 file_type: application/pdf
 learning_resource_types: []
