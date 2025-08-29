@@ -38,7 +38,7 @@ Traits vs. situational leadership; Leading and following
 
 Background for Leadership Debates ({{% resource_link "33f3b793-eec5-e222-920a-7d435b052380" "PDF" %}})
 
-Fry, Maddy. "[Bono Biography](http://www.atu2.com/band/bono/)." @ U2.
+Fry, Maddy. "Bono Biography." @ U2.
 
 BBC News. "[Voice of Influential U2 Frontman](http://news.bbc.co.uk/2/hi/entertainment/4540228.stm)."
 
